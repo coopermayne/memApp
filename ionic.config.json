@@ -1,5 +1,8 @@
 {
   "name": "memApp",
-  "integrations": {},
-  "type": "ionic-angular"
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "id": "e2655be6"
 }
